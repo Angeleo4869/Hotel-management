@@ -13,7 +13,10 @@ SSM + MySql
 3、项目环境
 
 （1）、IntelliJ IDEA 2019.3.1 x64
+
 （2）、Apache Maven 3.6.3
+
 （3）、JDK 1.8.0_241
+
 （4）、MySql 8.0.18
 
