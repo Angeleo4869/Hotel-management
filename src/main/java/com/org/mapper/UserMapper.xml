@@ -18,7 +18,7 @@
   <select id="selectLogin" resultType="com.org.po.UserPo" >
     Select * From users Where userName = #{userName,jdbcType=VARCHAR} And password = #{password,jdbcType=VARCHAR}
   </select>
-  
-  
+
+
   
 </mapper>

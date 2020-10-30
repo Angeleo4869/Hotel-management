@@ -7,5 +7,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/aihotel</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="AIHotel" uuid="54f7eb46-3261-4fb0-be5c-5b5779afb767">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://121.36.63.149:3306/aihotel</jdbc-url>
+    </data-source>
   </component>
 </project>
